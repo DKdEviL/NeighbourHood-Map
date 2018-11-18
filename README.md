@@ -58,17 +58,5 @@ This is how structured my React Components
 - [Foursquare Places API](https://developer.foursquare.com/)
 - [Axios](https://github.com/axios/axios)
 
-### Tutorials and ideas
-
-- [Foursquare Places API Documentation](https://developer.foursquare.com/docs/api/venues/explore)
-- [Project 7 Playlist by Elharony](https://www.youtube.com/watch?v=ywdxLNjhBYw&list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1)
-- [Project 7 Tutorial by Ryan Waite](https://www.youtube.com/watch?v=LvQe7xrUh7I&t=165s)
-- [Web Accessibility Checklist](https://a11yproject.com/checklist)
-
 ### Service Worker
 - Standard Service Worker has been enabled, and works in production build. 
-
-### Special Thanks
-
-Many thanks to the Udacity Slack Community for the abundant help and tips. I would like to extend my gratitude to the following people for their help:
-- Sara-FEND, JamesDBarlett3, drunkenkismet[FEND], hColleen, Rodrick, Sachin, Xavier FEND. 
